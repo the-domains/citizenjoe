@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'I had just looked up and couldn’t complete the sentence. Bert stood before me. I mean I thought it was Bert. He had the same voice, was wearing the same uniform that I am sure he never washed and he had this stupid grin on his stupid face. Except it wasn’t his face. It was the face of … of ….  “You’re an Ape.” I heard myself say.'
-datePublished: '2015-11-07T03:52:49.238Z'
-dateModified: '2015-11-07T03:52:24.070Z'
+datePublished: '2015-11-07T07:48:27.779Z'
+dateModified: '2015-11-07T07:48:18.880Z'
 title: My monkey wife
 sourcePath: _posts/2015-11-07-my-monkey-wife.md
 published: true
@@ -25,6 +25,7 @@ I am a man who likes order and routine and I keep to one every day. I
 arise at 6.00am, toilet, have two large glasses of water, drag the dog 
 around the block for 56 minutes, shower and catch the bus into the city 
 to my place of work.
+![monkey wife](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca4dcb85-125a-4069-b6e5-aacbd7af4a47.jpg)
 
 At the Ministry of Planning, which is work, I use the identity card 
 with the better picture of me to swipe into the building. The first card
@@ -260,4 +261,3 @@ think?"
 The camera continued to pan into a close up on my monkey wife. She 
 turned and looked directly at me and laughed and laughed and laughed. I 
 can still hear it. I hear it every day.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca4dcb85-125a-4069-b6e5-aacbd7af4a47.jpg)
