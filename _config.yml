@@ -1,0 +1,23 @@
+name: citizenjoe
+favicon: null
+layout_spectrum: 0.4133594708982855
+typography_spectrum: 0.17173142824321985
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.023033645702525973
+  lightness: 0.1657581685576588
+  saturation: 0.9637737171724439
+  rhythmicContrast: 0.7410280969925225
+purpose: []
