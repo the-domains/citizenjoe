@@ -1,6 +1,6 @@
 name: citizenjoe
 favicon: null
-layout_spectrum: 0.4133594708982855
+layout_spectrum: 0.35101
 typography_spectrum: 0.17173142824321985
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#242220'
     - '#000000'
   brandStrength: 0.5
-  lightness: 0.1657581685576588
-  saturation: 0.9637737171724439
-  rhythmicContrast: 0.7410280969925225
+  lightness: 0.4375
+  saturation: 0.4375
+  rhythmicContrast: 0.5
 purpose: []
